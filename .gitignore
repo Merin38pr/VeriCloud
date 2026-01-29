@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+*.log
+*.zip
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+fastapi-file-upload/__pycache__/
+fastapi-file-upload/uploads/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
